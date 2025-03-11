@@ -17,6 +17,7 @@ This project is a deep learning-based application that detects whether an upload
 ├── model.pth             # Trained model weights (generated after training)
 └── requirements.txt      # Dependencies
 ```
+Dataset(url)- https://www.kaggle.com/datasets/itamargr/dfdc-faces-of-the-train-sample
 
 ## Setup Instructions
 ### 1. Clone the Repository
